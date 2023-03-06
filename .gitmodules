@@ -1,3 +1,6 @@
 [submodule "Frontend-Music-Detective"]
 	path = Frontend-Music-Detective
 	url = https://github.com/alchambron/Frontend-Music-Detective
+[submodule "Backend-Music-Detective"]
+	path = Backend-Music-Detective
+	url = https://github.com/alchambron/Backend-Music-Detective
